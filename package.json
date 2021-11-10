@@ -19,7 +19,7 @@
     "language-classifier": "0.0.1",
     "read-file-stdin": "0.2.0",
     "sqwish": "0.2.2",
-    "uglify-js": "2.6.1",
+    "uglify-js": "3.14.3",
     "write-file-stdout": "0.0.2"
   },
   "devDependencies": {
